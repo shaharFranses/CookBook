@@ -1,0 +1,18 @@
+
+.active-pink-4 input[type=text]:focus:not([readonly]) {
+    border: 1px solid #FFA500 ;
+    box-shadow: 0 0 0 1px #FFA500 ;
+  }
+  .active-pink-3 input[type=text] {
+    border: 1px solid #FFA500 ;
+    box-shadow: 0 0 0 1px #FFA500 ;
+  }
+  .searchResult{
+      background-color: white;
+      
+      font-size: 20px;
+     
+  }
+  .searchResult:hover{
+      background-color: #767789;
+  }
