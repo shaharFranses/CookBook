@@ -1,0 +1,522 @@
+[{
+  "_id": {
+    "$oid": "5f882d07d932dc2568dc6e9e"
+  },
+  "recipes": [],
+  "favoritesRecipes": [
+    {
+      "recipeIngredients": [
+        "asas",
+        "asas",
+        "asas"
+      ],
+      "recipeDirections": [
+        "asas",
+        "asasa",
+        "asasas"
+      ],
+      "_id": {
+        "$oid": "5f95960d99cb6f3298c50d6f"
+      },
+      "recipeName": "bread",
+      "recipeDescription": "bread",
+      "recipeTime": "5151",
+      "recipeComplexity": "bread",
+      "numberOfPlates": "5",
+      "recipeImage": "https://images.unsplash.com/photo-1589881133595-a3c085cb731d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+      "recipeNumber": "730160",
+      "user_id": {
+        "$oid": "5f8991248a1d6d3a7ce878cc"
+      },
+      "createdAt": {
+        "$date": "2020-10-25T15:13:17.684Z"
+      },
+      "__v": 0
+    }
+  ],
+  "name": "Shahar Franses",
+  "email": "shahar@mail.com",
+  "password": "$2b$10$KMEQLqT3naZ01b6iO.ohouoSazWYjAh/gnoID1wGK4OOWzgDJ7A8K",
+  "userImage": "https://images.unsplash.com/photo-1581299894007-aaa50297cf16?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+  "createdAt": {
+    "$date": "2020-10-15T11:05:43.517Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8849237226cf22144be072"
+  },
+  "recipes": [],
+  "favoritesRecipes": [
+    {
+      "recipeIngredients": [
+        "1 ½ cups buttermilk",
+        "1 ¼ cups all-purpose flour",
+        "⅓ cup white sugar",
+        "⅓ cup dry farina cereal (such as Cream of Wheat®)",
+        "¼ cup vegetable oil",
+        "1 egg",
+        "1 teaspoon vanilla extract",
+        "1 teaspoon baking powder",
+        "1 teaspoon baking soda",
+        "½ teaspoon salt"
+      ],
+      "recipeDirections": [
+        "Combine buttermilk, flour, sugar, farina, oil, egg, vanilla extract, baking powder, baking soda, and salt in a bowl. Beat using an electric mixer on low until just combined.",
+        "Heat a lightly oiled griddle over medium-low heat. Drop batter by large spoonfuls onto the griddle and cook until middle is set, about 4 minutes. Flip and cook until golden brown on the other side, 3 to 5 minutes. Repeat with remaining batter."
+      ],
+      "_id": {
+        "$oid": "5fae539f0934fa0dd8df65f0"
+      },
+      "recipeName": "Pancakes",
+      "recipeDescription": "A thick hearty pancake that melts in your mouth.",
+      "recipeTime": "15  minutes",
+      "recipeComplexity": "any one can do ",
+      "numberOfPlates": "12 pancakes",
+      "recipeImage": "https://images.unsplash.com/photo-1587339144367-f1cacbecac82?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+      "recipeNumber": "953485",
+      "user_id": {
+        "$oid": "5fae52dd0934fa0dd8df65ef"
+      },
+      "createdAt": {
+        "$date": "2020-11-13T09:36:31.295Z"
+      },
+      "__v": 0
+    },
+    {
+      "recipeIngredients": [
+        "2 cups white sugar",
+        "1 ¾ cups all-purpose flour",
+        "¾ cup unsweetened cocoa powder",
+        "1 ½ teaspoons baking powder",
+        "1 ½ teaspoons baking soda",
+        "1 teaspoon salt",
+        "2 eggs",
+        "1 cup milk",
+        "½ cup vegetable oil",
+        "2 teaspoons vanilla extract",
+        "1 cup boiling water"
+      ],
+      "recipeDirections": [
+        "Preheat oven to 350 degrees F (175 degrees C). Grease and flour two nine inch round pans.",
+        "In a large bowl, stir together the sugar, flour, cocoa, baking powder, baking soda and salt. Add the eggs, milk, oil and vanilla, mix for 2 minutes on medium speed of mixer. Stir in the boiling water last. Batter will be thin. Pour evenly into the prepared pans.",
+        "Bake 30 to 35 minutes in the preheated oven, until the cake tests done with a toothpick. Cool in the pans for 10 minutes, then remove to a wire rack to cool completely."
+      ],
+      "_id": {
+        "$oid": "5fae51050934fa0dd8df65ee"
+      },
+      "recipeName": "One Bowl Chocolate Cake ",
+      "recipeDescription": "This is a rich and moist chocolate cake. It only takes a few minutes to prepare the batter. Frost with your favorite chocolate frosting.",
+      "recipeTime": "1 hour",
+      "recipeComplexity": "Any one can do ",
+      "numberOfPlates": "24 servings",
+      "recipeImage": "https://images.unsplash.com/photo-1582577829927-897c60e62d52?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+      "recipeNumber": "984183",
+      "user_id": {
+        "$oid": "5f8849237226cf22144be072"
+      },
+      "createdAt": {
+        "$date": "2020-11-13T09:25:25.347Z"
+      },
+      "__v": 0
+    },
+    {
+      "recipeIngredients": [
+        "8 ounces spaghetti",
+        "12 ounces medium shrimp, peeled and deveined",
+        "1 tablespoon olive oil",
+        "8 ounces cremini mushrooms, sliced",
+        "1 red bell pepper, diced",
+        "2 zucchinis, diced",
+        "1 carrot, grated",
+        "2 tablespoons chopped fresh cilantro leaves",
+        "1/3 cup reduced sodium soy sauce",
+        "3 cloves, garlic, minced",
+        "2 tablespoons brown sugar, packed",
+        "1 tablespoon sambal oelek (ground fresh chile paste), or more, to taste*",
+        "1 tablespoon oyster sauce",
+        "1 tablespoon freshly grated ginger",
+        "1 teaspoon sesame oil"
+      ],
+      "recipeDirections": [
+        "In a small bowl, whisk together soy sauce, garlic, brown sugar, sambal oelek, oyster sauce, ginger and sesame oil; set aside.",
+        "In a large pot of boiling salted water, cook pasta according to package instructions; drain well.",
+        "Heat olive oil in a large skillet over medium high heat. Add shrimp and 2 tablespoons soy sauce mixture, and cook, stirring occasionally, until pink, about 2-3 minutes; set aside.",
+        "Stir in mushrooms, bell pepper, zucchinis and carrot to the skillet. Cook, stirring frequently, until tender, about 3-4 minutes. Stir in spaghetti, shrimp and remaining soy sauce mixture until well combined, about 2-3 minutes.",
+        "Serve immediately, garnished with cilantro, if desired"
+      ],
+      "_id": {
+        "$oid": "5fae4fa40934fa0dd8df65ed"
+      },
+      "recipeName": "Asian Garlic Noodles",
+      "recipeDescription": "Easy peasy Asian noodle stir-fry using pantry ingredients that you already have on hand. Quick, no-fuss, and made in less than 30min!",
+      "recipeTime": "30",
+      "recipeComplexity": "any one can do ",
+      "numberOfPlates": "4 servings",
+      "recipeImage": "https://images.unsplash.com/photo-1537081956137-3931105e2d37?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+      "recipeNumber": "1599",
+      "user_id": {
+        "$oid": "5f882d07d932dc2568dc6e9e"
+      },
+      "createdAt": {
+        "$date": "2020-11-13T09:19:32.729Z"
+      },
+      "__v": 0
+    },
+    {
+      "recipeIngredients": [
+        " 1/2 pounds 80% lean 20% fat ground beef or ground chuck",
+        "1 teaspoon garlic powder",
+        "1/2 teaspoon ground black pepper",
+        "4 slices of cheese"
+      ],
+      "recipeDirections": [
+        "Preheat the grill to 375 degrees F (medium-high).",
+        "In a large bowl, add the beef. Sprinkle evenly with the Worcestershire sauce, seasoning salt, garlic powder, and pepper. Use your hands to mix the ingredients until they are just combined",
+        "Divide the meat mixture into fourths. Take 1/4 of the meat mixture and use your hands to press it into the shape of a hamburger patty that is about 3/4 inch thick. Make an indention in the middle of the patty to prevent bulging in the center of the hamburger as it cooks. Repeat with the remaining meat mixture, making 4 hamburgers.",
+        "Place the burgers on the grill. Cook 4-5 minutes on the first side. Flip the burgers over and cook an additional 4-5 minutes, until the burgers have reached the desired doneness",
+        "If adding cheese, lay a slice of cheese on each burger patty about 1 minute before taking the burgers off the grill, so the cheese has a chance to melt.",
+        "Serve the burgers on hamburger buns with optional hamburger toppings"
+      ],
+      "_id": {
+        "$oid": "5fae4cad0934fa0dd8df65ec"
+      },
+      "recipeName": "Hamburger",
+      "recipeDescription": "The Best Classic Burger Recipe – Perfectly seasoned juicy homemade hamburgers.  This easy recipe only needs a few ingredients.",
+      "recipeTime": "30 minutes",
+      "recipeComplexity": "any one can do it ",
+      "numberOfPlates": "4 hamburgers",
+      "recipeImage": "https://images.unsplash.com/photo-1572802419224-296b0aeee0d9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+      "recipeNumber": "634735",
+      "user_id": {
+        "$oid": "5f882d07d932dc2568dc6e9e"
+      },
+      "createdAt": {
+        "$date": "2020-11-13T09:06:53.866Z"
+      },
+      "__v": 0
+    }
+  ],
+  "name": "Sharon Franses",
+  "email": "sharon@mail.com",
+  "password": "$2b$10$toWMk.6YmEl5GAmBuJ4FGOSVMl3.fNKnbi2LtiKZ4q50ckbC6cJXu",
+  "userImage": "https://images.unsplash.com/photo-1595475038784-bbe439ff41e6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+  "createdAt": {
+    "$date": "2020-10-15T13:05:39.752Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fae52dd0934fa0dd8df65ef"
+  },
+  "recipes": [],
+  "favoritesRecipes": [
+    {
+      "recipeIngredients": [
+        "1 ½ cups buttermilk",
+        "1 ¼ cups all-purpose flour",
+        "⅓ cup white sugar",
+        "⅓ cup dry farina cereal (such as Cream of Wheat®)",
+        "¼ cup vegetable oil",
+        "1 egg",
+        "1 teaspoon vanilla extract",
+        "1 teaspoon baking powder",
+        "1 teaspoon baking soda",
+        "½ teaspoon salt"
+      ],
+      "recipeDirections": [
+        "Combine buttermilk, flour, sugar, farina, oil, egg, vanilla extract, baking powder, baking soda, and salt in a bowl. Beat using an electric mixer on low until just combined.",
+        "Heat a lightly oiled griddle over medium-low heat. Drop batter by large spoonfuls onto the griddle and cook until middle is set, about 4 minutes. Flip and cook until golden brown on the other side, 3 to 5 minutes. Repeat with remaining batter."
+      ],
+      "_id": {
+        "$oid": "5fae539f0934fa0dd8df65f0"
+      },
+      "recipeName": "Pancakes",
+      "recipeDescription": "A thick hearty pancake that melts in your mouth.",
+      "recipeTime": "15  minutes",
+      "recipeComplexity": "any one can do ",
+      "numberOfPlates": "12 pancakes",
+      "recipeImage": "https://images.unsplash.com/photo-1587339144367-f1cacbecac82?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+      "recipeNumber": "953485",
+      "user_id": {
+        "$oid": "5fae52dd0934fa0dd8df65ef"
+      },
+      "createdAt": {
+        "$date": "2020-11-13T09:36:31.295Z"
+      },
+      "__v": 0
+    }
+  ],
+  "name": "Moshe Franses",
+  "email": "shiki@mail.com",
+  "password": "$2b$10$fTZZNcOhqBPx7MsZNbpco.SMcwC2idOiR1ZnCDG1iQmG/SVZTMqFa",
+  "userImage": "https://images.unsplash.com/photo-1543716627-839b54c40519?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+  "createdAt": {
+    "$date": "2020-11-13T09:33:17.622Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fafb4856e81aa106cfeaf98"
+  },
+  "recipes": [],
+  "favoritesRecipes": [
+    {
+      "recipeIngredients": [
+        "1 cup red wine",
+        "1 teaspoon salt",
+        "1 sprig fresh rosemary",
+        "4 New York strip steaks, cut 1-inch thick"
+      ],
+      "recipeDirections": [
+        "Combine the red wine, salt and rosemary in a small bowl. Let stand at room temperature for 2 to 3 hours.",
+        "Heat a large griddle or cast-iron skillet over high heat. Place the steaks on the hot pan, and cook for about 8 minutes per side, or to desired degree of doneness. The internal temperature should be at least 145 degrees F (62 degrees C) for medium rare. Pour in the wine mixture, and allow it to boil for a minute. Serve steaks with sauce on a deep platter."
+      ],
+      "_id": {
+        "$oid": "5fb1521241de2117e412e1f0"
+      },
+      "recipeName": "Rosemary Steak",
+      "recipeDescription": "This is a wonderful steak dish that was prepared for me when I lived in Argentina. This Argentinean steak dish is quite popular in various restaurants around Buenos Aires.",
+      "recipeTime": "3 hours",
+      "recipeComplexity": "Normal",
+      "numberOfPlates": "4 servings",
+      "recipeImage": "https://images.unsplash.com/photo-1587016164135-258b9d6ebdef?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+      "recipeNumber": "549266",
+      "user_id": {
+        "$oid": "5fae52dd0934fa0dd8df65ef"
+      },
+      "createdAt": {
+        "$date": "2020-11-15T16:06:42.086Z"
+      },
+      "__v": 0
+    }
+  ],
+  "name": "Beatrix Kiddo",
+  "email": "beatris@mail.com",
+  "password": "$2b$10$2pe4IocT82xt/71gPjkkju2RDXGM9ryfKcGTv6kA.8r4I667ykG7W",
+  "userImage": "https://images.unsplash.com/photo-1595257841889-eca2678454e2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+  "createdAt": {
+    "$date": "2020-11-14T10:42:13.529Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb14bd441de2117e412e1ed"
+  },
+  "recipes": [],
+  "favoritesRecipes": [
+    {
+      "recipeIngredients": [
+        "2 cloves garlic, finely chopped",
+        "3 anchovy fillets",
+        "½ lemon, juiced",
+        "2 tablespoons red wine vinegar",
+        "1 tablespoon Dijon mustard",
+        "1 egg yolk",
+        "1 dash Worcestershire sauce",
+        "¼ cup olive oil",
+        "1 pinch salt and ground black pepper to taste",
+        "½ head romaine lettuce, chopped",
+        "¼ cup grated Parmesan cheese",
+        "2 tablespoons croutons"
+      ],
+      "recipeDirections": [
+        "Mash garlic with anchovies in a large salad bowl. Whisk lemon juice, red wine vinegar, Dijon mustard, egg yolk, and Worcestershire sauce into the anchovy mixture until mixture is smooth and creamy. Gradually whisk olive oil into the dressing, pouring the oil into the dressing in a thin stream while stirring constantly. Season with salt and black pepper.",
+        "Gently mix romaine lettuce and Parmesan cheese into the dressing until thoroughly coated; serve salad topped with croutons."
+      ],
+      "_id": {
+        "$oid": "5fb14a6c41de2117e412e1ec"
+      },
+      "recipeName": "Classic Restaurant Caesar Salad",
+      "recipeDescription": "I used to work at a very fancy restaurant while I was in college. The best part of the job was making table side salads, entrees, and dessert. This was the best Caesar salad I have ever had! If having trouble getting the anchovy to mash, add a couple of croutons. They provide sort of an anti-skid surface, and the hard edges of the croutons cut into the anchovy.",
+      "recipeTime": "20 minutes",
+      "recipeComplexity": "any one can do ",
+      "numberOfPlates": "2 servings",
+      "recipeImage": "https://images.unsplash.com/photo-1580013759032-c96505e24c1f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+      "recipeNumber": "778517",
+      "user_id": {
+        "$oid": "5f882d07d932dc2568dc6e9e"
+      },
+      "createdAt": {
+        "$date": "2020-11-15T15:34:04.722Z"
+      },
+      "__v": 0
+    },
+    {
+      "recipeIngredients": [
+        "1 ½ cups buttermilk",
+        "1 ¼ cups all-purpose flour",
+        "⅓ cup white sugar",
+        "⅓ cup dry farina cereal (such as Cream of Wheat®)",
+        "¼ cup vegetable oil",
+        "1 egg",
+        "1 teaspoon vanilla extract",
+        "1 teaspoon baking powder",
+        "1 teaspoon baking soda",
+        "½ teaspoon salt"
+      ],
+      "recipeDirections": [
+        "Combine buttermilk, flour, sugar, farina, oil, egg, vanilla extract, baking powder, baking soda, and salt in a bowl. Beat using an electric mixer on low until just combined.",
+        "Heat a lightly oiled griddle over medium-low heat. Drop batter by large spoonfuls onto the griddle and cook until middle is set, about 4 minutes. Flip and cook until golden brown on the other side, 3 to 5 minutes. Repeat with remaining batter."
+      ],
+      "_id": {
+        "$oid": "5fae539f0934fa0dd8df65f0"
+      },
+      "recipeName": "Pancakes",
+      "recipeDescription": "A thick hearty pancake that melts in your mouth.",
+      "recipeTime": "15  minutes",
+      "recipeComplexity": "any one can do ",
+      "numberOfPlates": "12 pancakes",
+      "recipeImage": "https://images.unsplash.com/photo-1587339144367-f1cacbecac82?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+      "recipeNumber": "953485",
+      "user_id": {
+        "$oid": "5fae52dd0934fa0dd8df65ef"
+      },
+      "createdAt": {
+        "$date": "2020-11-13T09:36:31.295Z"
+      },
+      "__v": 0
+    }
+  ],
+  "name": "Marsellus Wallace",
+  "email": "Marsellus@mail.com",
+  "password": "$2b$10$ooJ26eRspFKrdnV6RluUC.uaOJCeGlbUMKyHLkGs//kqDlIBlEaSy",
+  "userImage": "https://images.unsplash.com/photo-1596529258120-29aec0ce4d63?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+  "createdAt": {
+    "$date": "2020-11-15T15:40:04.281Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb1542741de2117e412e1f2"
+  },
+  "recipes": [],
+  "favoritesRecipes": [
+    {
+      "recipeIngredients": [
+        "1 cup uncooked short-grain white rice",
+        "1 cup water",
+        "¼ cup rice vinegar",
+        "1 tablespoon white sugar",
+        "½ cup imitation crabmeat, finely chopped",
+        "¼ cup mayonnaise",
+        "8 sheets nori (dry seaweed)",
+        "2 ½ tablespoons sesame seeds",
+        "1 cucumber, cut into thin spears",
+        "2 avocados - pitted, peeled, and sliced the long way"
+      ],
+      "recipeDirections": [
+        "Wash the rice in several changes of water until the rinse water is no longer cloudy, drain well, and place in a covered pan or rice cooker with 1 cup water. Bring to a boil, reduce heat to a simmer, and cover the pan. Allow the rice to simmer until the top looks dry, about 15 minutes. Turn off the heat, and let stand for 10 minutes to absorb the rest of the water.",
+        "Mix the rice vinegar and sugar in a small bowl until the sugar has dissolved, and stir the mixture into the cooked rice until well combined. Allow the rice to cool, and set aside.",
+        "Mix the imitation crabmeat with mayonnaise in a bowl, and set aside. To roll the sushi, cover a bamboo rolling mat with plastic wrap. Lay a sheet of nori, shiny side down, on the plastic wrap. With wet fingers, firmly pat a thin, even layer of prepared rice over the nori, leaving 1/4 inch uncovered at the bottom edge of the sheet. Sprinkle the rice with about 1/2 teaspoon of sesame seeds, and gently press them into the rice. Carefully flip the nori sheet over so the seaweed side is up.",
+        "Place 2 or 3 long cucumber spears, 2 or 3 slices of avocado, and about 1 tablespoon of imitation crab mixture in a line across the nori sheet, about 1/4 from the uncovered edge. Pick up the edge of the bamboo rolling sheet, fold the bottom edge of the sheet up, enclosing the filling, and tightly roll the sushi into a cylinder about 1 1/2 inch in diameter. Once the sushi is rolled, wrap it in the mat and gently squeeze to compact it tightly.",
+        "Cut each roll into 1 inch pieces with a very sharp knife dipped in water."
+      ],
+      "_id": {
+        "$oid": "5fb1509141de2117e412e1ef"
+      },
+      "recipeName": "California Roll Sushi",
+      "recipeDescription": "California Roll - it's really good. Serve with soy sauce and wasabi.",
+      "recipeTime": "1 hour and 30 minutes",
+      "recipeComplexity": "Challenging",
+      "numberOfPlates": "8 Rolls",
+      "recipeImage": "https://images.unsplash.com/photo-1564489563601-c53cfc451e93?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+      "recipeNumber": "965138",
+      "user_id": {
+        "$oid": "5f8849237226cf22144be072"
+      },
+      "createdAt": {
+        "$date": "2020-11-15T16:00:17.805Z"
+      },
+      "__v": 0
+    },
+    {
+      "recipeIngredients": [
+        "2 cloves garlic, finely chopped",
+        "3 anchovy fillets",
+        "½ lemon, juiced",
+        "2 tablespoons red wine vinegar",
+        "1 tablespoon Dijon mustard",
+        "1 egg yolk",
+        "1 dash Worcestershire sauce",
+        "¼ cup olive oil",
+        "1 pinch salt and ground black pepper to taste",
+        "½ head romaine lettuce, chopped",
+        "¼ cup grated Parmesan cheese",
+        "2 tablespoons croutons"
+      ],
+      "recipeDirections": [
+        "Mash garlic with anchovies in a large salad bowl. Whisk lemon juice, red wine vinegar, Dijon mustard, egg yolk, and Worcestershire sauce into the anchovy mixture until mixture is smooth and creamy. Gradually whisk olive oil into the dressing, pouring the oil into the dressing in a thin stream while stirring constantly. Season with salt and black pepper.",
+        "Gently mix romaine lettuce and Parmesan cheese into the dressing until thoroughly coated; serve salad topped with croutons."
+      ],
+      "_id": {
+        "$oid": "5fb14a6c41de2117e412e1ec"
+      },
+      "recipeName": "Classic Restaurant Caesar Salad",
+      "recipeDescription": "I used to work at a very fancy restaurant while I was in college. The best part of the job was making table side salads, entrees, and dessert. This was the best Caesar salad I have ever had! If having trouble getting the anchovy to mash, add a couple of croutons. They provide sort of an anti-skid surface, and the hard edges of the croutons cut into the anchovy.",
+      "recipeTime": "20 minutes",
+      "recipeComplexity": "any one can do ",
+      "numberOfPlates": "2 servings",
+      "recipeImage": "https://images.unsplash.com/photo-1580013759032-c96505e24c1f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+      "recipeNumber": "778517",
+      "user_id": {
+        "$oid": "5f882d07d932dc2568dc6e9e"
+      },
+      "createdAt": {
+        "$date": "2020-11-15T15:34:04.722Z"
+      },
+      "__v": 0
+    },
+    {
+      "recipeIngredients": [
+        "8 ounces spaghetti",
+        "12 ounces medium shrimp, peeled and deveined",
+        "1 tablespoon olive oil",
+        "8 ounces cremini mushrooms, sliced",
+        "1 red bell pepper, diced",
+        "2 zucchinis, diced",
+        "1 carrot, grated",
+        "2 tablespoons chopped fresh cilantro leaves",
+        "1/3 cup reduced sodium soy sauce",
+        "3 cloves, garlic, minced",
+        "2 tablespoons brown sugar, packed",
+        "1 tablespoon sambal oelek (ground fresh chile paste), or more, to taste*",
+        "1 tablespoon oyster sauce",
+        "1 tablespoon freshly grated ginger",
+        "1 teaspoon sesame oil"
+      ],
+      "recipeDirections": [
+        "In a small bowl, whisk together soy sauce, garlic, brown sugar, sambal oelek, oyster sauce, ginger and sesame oil; set aside.",
+        "In a large pot of boiling salted water, cook pasta according to package instructions; drain well.",
+        "Heat olive oil in a large skillet over medium high heat. Add shrimp and 2 tablespoons soy sauce mixture, and cook, stirring occasionally, until pink, about 2-3 minutes; set aside.",
+        "Stir in mushrooms, bell pepper, zucchinis and carrot to the skillet. Cook, stirring frequently, until tender, about 3-4 minutes. Stir in spaghetti, shrimp and remaining soy sauce mixture until well combined, about 2-3 minutes.",
+        "Serve immediately, garnished with cilantro, if desired"
+      ],
+      "_id": {
+        "$oid": "5fae4fa40934fa0dd8df65ed"
+      },
+      "recipeName": "Asian Garlic Noodles",
+      "recipeDescription": "Easy peasy Asian noodle stir-fry using pantry ingredients that you already have on hand. Quick, no-fuss, and made in less than 30min!",
+      "recipeTime": "30",
+      "recipeComplexity": "any one can do ",
+      "numberOfPlates": "4 servings",
+      "recipeImage": "https://images.unsplash.com/photo-1537081956137-3931105e2d37?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+      "recipeNumber": "1599",
+      "user_id": {
+        "$oid": "5f882d07d932dc2568dc6e9e"
+      },
+      "createdAt": {
+        "$date": "2020-11-13T09:19:32.729Z"
+      },
+      "__v": 0
+    }
+  ],
+  "name": "Donny Donowitz",
+  "email": "Donny@mail.com",
+  "password": "$2b$10$DOJHK8vd2hJRBrwHM2p8J.51cdBogL8nsSgQc3rJ4F2377hfaeCeG",
+  "userImage": "https://images.unsplash.com/photo-1489460427746-b6296f4bc3f5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+  "createdAt": {
+    "$date": "2020-11-15T16:15:35.912Z"
+  },
+  "__v": 0
+}]

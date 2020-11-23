@@ -1,0 +1,529 @@
+[{
+  "_id": {
+    "$oid": "5fae4cad0934fa0dd8df65ec"
+  },
+  "recipeIngredients": [
+    " 1/2 pounds 80% lean 20% fat ground beef or ground chuck",
+    "1 teaspoon garlic powder",
+    "1/2 teaspoon ground black pepper",
+    "4 slices of cheese"
+  ],
+  "recipeDirections": [
+    "Preheat the grill to 375 degrees F (medium-high).",
+    "In a large bowl, add the beef. Sprinkle evenly with the Worcestershire sauce, seasoning salt, garlic powder, and pepper. Use your hands to mix the ingredients until they are just combined",
+    "Divide the meat mixture into fourths. Take 1/4 of the meat mixture and use your hands to press it into the shape of a hamburger patty that is about 3/4 inch thick. Make an indention in the middle of the patty to prevent bulging in the center of the hamburger as it cooks. Repeat with the remaining meat mixture, making 4 hamburgers.",
+    "Place the burgers on the grill. Cook 4-5 minutes on the first side. Flip the burgers over and cook an additional 4-5 minutes, until the burgers have reached the desired doneness",
+    "If adding cheese, lay a slice of cheese on each burger patty about 1 minute before taking the burgers off the grill, so the cheese has a chance to melt.",
+    "Serve the burgers on hamburger buns with optional hamburger toppings"
+  ],
+  "recipeName": "Hamburger",
+  "recipeDescription": "The Best Classic Burger Recipe – Perfectly seasoned juicy homemade hamburgers.  This easy recipe only needs a few ingredients.",
+  "recipeTime": "30 minutes",
+  "recipeComplexity": "any one can do it ",
+  "numberOfPlates": "4 hamburgers",
+  "recipeImage": "https://images.unsplash.com/photo-1572802419224-296b0aeee0d9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+  "recipeNumber": "634735",
+  "user_id": {
+    "$oid": "5f882d07d932dc2568dc6e9e"
+  },
+  "createdAt": {
+    "$date": "2020-11-13T09:06:53.866Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fae4fa40934fa0dd8df65ed"
+  },
+  "recipeIngredients": [
+    "8 ounces spaghetti",
+    "12 ounces medium shrimp, peeled and deveined",
+    "1 tablespoon olive oil",
+    "8 ounces cremini mushrooms, sliced",
+    "1 red bell pepper, diced",
+    "2 zucchinis, diced",
+    "1 carrot, grated",
+    "2 tablespoons chopped fresh cilantro leaves",
+    "1/3 cup reduced sodium soy sauce",
+    "3 cloves, garlic, minced",
+    "2 tablespoons brown sugar, packed",
+    "1 tablespoon sambal oelek (ground fresh chile paste), or more, to taste*",
+    "1 tablespoon oyster sauce",
+    "1 tablespoon freshly grated ginger",
+    "1 teaspoon sesame oil"
+  ],
+  "recipeDirections": [
+    "In a small bowl, whisk together soy sauce, garlic, brown sugar, sambal oelek, oyster sauce, ginger and sesame oil; set aside.",
+    "In a large pot of boiling salted water, cook pasta according to package instructions; drain well.",
+    "Heat olive oil in a large skillet over medium high heat. Add shrimp and 2 tablespoons soy sauce mixture, and cook, stirring occasionally, until pink, about 2-3 minutes; set aside.",
+    "Stir in mushrooms, bell pepper, zucchinis and carrot to the skillet. Cook, stirring frequently, until tender, about 3-4 minutes. Stir in spaghetti, shrimp and remaining soy sauce mixture until well combined, about 2-3 minutes.",
+    "Serve immediately, garnished with cilantro, if desired"
+  ],
+  "recipeName": "Asian Garlic Noodles",
+  "recipeDescription": "Easy peasy Asian noodle stir-fry using pantry ingredients that you already have on hand. Quick, no-fuss, and made in less than 30min!",
+  "recipeTime": "30",
+  "recipeComplexity": "any one can do ",
+  "numberOfPlates": "4 servings",
+  "recipeImage": "https://images.unsplash.com/photo-1537081956137-3931105e2d37?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+  "recipeNumber": "1599",
+  "user_id": {
+    "$oid": "5f882d07d932dc2568dc6e9e"
+  },
+  "createdAt": {
+    "$date": "2020-11-13T09:19:32.729Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fae51050934fa0dd8df65ee"
+  },
+  "recipeIngredients": [
+    "2 cups white sugar",
+    "1 ¾ cups all-purpose flour",
+    "¾ cup unsweetened cocoa powder",
+    "1 ½ teaspoons baking powder",
+    "1 ½ teaspoons baking soda",
+    "1 teaspoon salt",
+    "2 eggs",
+    "1 cup milk",
+    "½ cup vegetable oil",
+    "2 teaspoons vanilla extract",
+    "1 cup boiling water"
+  ],
+  "recipeDirections": [
+    "Preheat oven to 350 degrees F (175 degrees C). Grease and flour two nine inch round pans.",
+    "In a large bowl, stir together the sugar, flour, cocoa, baking powder, baking soda and salt. Add the eggs, milk, oil and vanilla, mix for 2 minutes on medium speed of mixer. Stir in the boiling water last. Batter will be thin. Pour evenly into the prepared pans.",
+    "Bake 30 to 35 minutes in the preheated oven, until the cake tests done with a toothpick. Cool in the pans for 10 minutes, then remove to a wire rack to cool completely."
+  ],
+  "recipeName": "One Bowl Chocolate Cake ",
+  "recipeDescription": "This is a rich and moist chocolate cake. It only takes a few minutes to prepare the batter. Frost with your favorite chocolate frosting.",
+  "recipeTime": "1 hour",
+  "recipeComplexity": "Any one can do ",
+  "numberOfPlates": "24 servings",
+  "recipeImage": "https://images.unsplash.com/photo-1582577829927-897c60e62d52?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+  "recipeNumber": "984183",
+  "user_id": {
+    "$oid": "5f8849237226cf22144be072"
+  },
+  "createdAt": {
+    "$date": "2020-11-13T09:25:25.347Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fae539f0934fa0dd8df65f0"
+  },
+  "recipeIngredients": [
+    "1 ½ cups buttermilk",
+    "1 ¼ cups all-purpose flour",
+    "⅓ cup white sugar",
+    "⅓ cup dry farina cereal (such as Cream of Wheat®)",
+    "¼ cup vegetable oil",
+    "1 egg",
+    "1 teaspoon vanilla extract",
+    "1 teaspoon baking powder",
+    "1 teaspoon baking soda",
+    "½ teaspoon salt"
+  ],
+  "recipeDirections": [
+    "Combine buttermilk, flour, sugar, farina, oil, egg, vanilla extract, baking powder, baking soda, and salt in a bowl. Beat using an electric mixer on low until just combined.",
+    "Heat a lightly oiled griddle over medium-low heat. Drop batter by large spoonfuls onto the griddle and cook until middle is set, about 4 minutes. Flip and cook until golden brown on the other side, 3 to 5 minutes. Repeat with remaining batter."
+  ],
+  "recipeName": "Pancakes",
+  "recipeDescription": "A thick hearty pancake that melts in your mouth.",
+  "recipeTime": "15  minutes",
+  "recipeComplexity": "any one can do ",
+  "numberOfPlates": "12 pancakes",
+  "recipeImage": "https://images.unsplash.com/photo-1587339144367-f1cacbecac82?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+  "recipeNumber": "953485",
+  "user_id": {
+    "$oid": "5fae52dd0934fa0dd8df65ef"
+  },
+  "createdAt": {
+    "$date": "2020-11-13T09:36:31.295Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb01eb3da29c50b5c5deea0"
+  },
+  "recipeIngredients": [
+    "1 (.25 ounce) package active dry yeast",
+    "1 teaspoon white sugar",
+    "1 cup warm water (110 degrees F/45 degrees C)",
+    "2 ½ cups bread flour",
+    "2 tablespoons olive oil",
+    "1 teaspoon salt"
+  ],
+  "recipeDirections": [
+    "Preheat oven to 450 degrees F (230 degrees C). In a medium bowl, dissolve yeast and sugar in warm water. Let stand until creamy, about 10 minutes.",
+    "Stir in flour, salt and oil. Beat until smooth. Let rest for 5 minutes.",
+    "Turn dough out onto a lightly floured surface and pat or roll into a round. Transfer crust to a lightly greased pizza pan or baker's peel dusted with cornmeal. Spread with desired toppings and bake in preheated oven for 15 to 20 minutes, or until golden brown. Let baked pizza cool for 5 minutes before serving."
+  ],
+  "recipeName": "Quick and Easy Pizza Crust",
+  "recipeDescription": "This is a great recipe when you don't want to wait for the dough to rise. You just mix it and allow it to rest for 5 minutes and then it's ready to go!! It yields a soft, chewy crust. For a real treat, I recommend you use bread flour and bake it on a pizza stone, but all-purpose flour works well too. Enjoy!",
+  "recipeTime": "30 minutes",
+  "recipeComplexity": "easy ",
+  "numberOfPlates": "8 slices",
+  "recipeImage": "https://images.unsplash.com/photo-1552539618-7eec9b4d1796?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+  "recipeNumber": "510193",
+  "user_id": {
+    "$oid": "5fafb4856e81aa106cfeaf98"
+  },
+  "createdAt": {
+    "$date": "2020-11-14T18:15:15.285Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb14a6c41de2117e412e1ec"
+  },
+  "recipeIngredients": [
+    "2 cloves garlic, finely chopped",
+    "3 anchovy fillets",
+    "½ lemon, juiced",
+    "2 tablespoons red wine vinegar",
+    "1 tablespoon Dijon mustard",
+    "1 egg yolk",
+    "1 dash Worcestershire sauce",
+    "¼ cup olive oil",
+    "1 pinch salt and ground black pepper to taste",
+    "½ head romaine lettuce, chopped",
+    "¼ cup grated Parmesan cheese",
+    "2 tablespoons croutons"
+  ],
+  "recipeDirections": [
+    "Mash garlic with anchovies in a large salad bowl. Whisk lemon juice, red wine vinegar, Dijon mustard, egg yolk, and Worcestershire sauce into the anchovy mixture until mixture is smooth and creamy. Gradually whisk olive oil into the dressing, pouring the oil into the dressing in a thin stream while stirring constantly. Season with salt and black pepper.",
+    "Gently mix romaine lettuce and Parmesan cheese into the dressing until thoroughly coated; serve salad topped with croutons."
+  ],
+  "recipeName": "Classic Restaurant Caesar Salad",
+  "recipeDescription": "I used to work at a very fancy restaurant while I was in college. The best part of the job was making table side salads, entrees, and dessert. This was the best Caesar salad I have ever had! If having trouble getting the anchovy to mash, add a couple of croutons. They provide sort of an anti-skid surface, and the hard edges of the croutons cut into the anchovy.",
+  "recipeTime": "20 minutes",
+  "recipeComplexity": "any one can do ",
+  "numberOfPlates": "2 servings",
+  "recipeImage": "https://images.unsplash.com/photo-1580013759032-c96505e24c1f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+  "recipeNumber": "778517",
+  "user_id": {
+    "$oid": "5f882d07d932dc2568dc6e9e"
+  },
+  "createdAt": {
+    "$date": "2020-11-15T15:34:04.722Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb14d2d41de2117e412e1ee"
+  },
+  "recipeIngredients": [
+    "1 pound spaghetti",
+    "6 tablespoons olive oil",
+    "2 cloves garlic, minced",
+    "2 teaspoons ground black pepper",
+    "1 ¾ cups grated Pecorino Romano cheese"
+  ],
+  "recipeDirections": [
+    "Bring a large pot of lightly salted water to a boil. Cook spaghetti in the boiling water, stirring occasionally until tender yet firm to the bite, about 10 minutes. Scoop out some of the cooking water and reserve. Drain spaghetti.",
+    "Heat oil in a large skillet over medium heat. Add garlic and pepper; cook and stir until fragrant, 1 to 2 minutes. Add spaghetti and Pecorino Romano cheese. Ladle in 1/2 cup of reserved cooking water; stir until cheese is melted, about 1 minute. Add more cooking water until sauce coats spaghetti, about 1 minute more."
+  ],
+  "recipeName": "Spaghetti Cacio e Pepe",
+  "recipeDescription": "This is a recipe that we have made in our family for many years--everyone loves it. It's a very basic and easy variation on mac 'n cheese.",
+  "recipeTime": "23 minutes",
+  "recipeComplexity": "Normal",
+  "numberOfPlates": "4 servings",
+  "recipeImage": "https://images.unsplash.com/photo-1567608285969-48e4bbe0d399?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+  "recipeNumber": "618126",
+  "user_id": {
+    "$oid": "5fb14bd441de2117e412e1ed"
+  },
+  "createdAt": {
+    "$date": "2020-11-15T15:45:49.300Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb1509141de2117e412e1ef"
+  },
+  "recipeIngredients": [
+    "1 cup uncooked short-grain white rice",
+    "1 cup water",
+    "¼ cup rice vinegar",
+    "1 tablespoon white sugar",
+    "½ cup imitation crabmeat, finely chopped",
+    "¼ cup mayonnaise",
+    "8 sheets nori (dry seaweed)",
+    "2 ½ tablespoons sesame seeds",
+    "1 cucumber, cut into thin spears",
+    "2 avocados - pitted, peeled, and sliced the long way"
+  ],
+  "recipeDirections": [
+    "Wash the rice in several changes of water until the rinse water is no longer cloudy, drain well, and place in a covered pan or rice cooker with 1 cup water. Bring to a boil, reduce heat to a simmer, and cover the pan. Allow the rice to simmer until the top looks dry, about 15 minutes. Turn off the heat, and let stand for 10 minutes to absorb the rest of the water.",
+    "Mix the rice vinegar and sugar in a small bowl until the sugar has dissolved, and stir the mixture into the cooked rice until well combined. Allow the rice to cool, and set aside.",
+    "Mix the imitation crabmeat with mayonnaise in a bowl, and set aside. To roll the sushi, cover a bamboo rolling mat with plastic wrap. Lay a sheet of nori, shiny side down, on the plastic wrap. With wet fingers, firmly pat a thin, even layer of prepared rice over the nori, leaving 1/4 inch uncovered at the bottom edge of the sheet. Sprinkle the rice with about 1/2 teaspoon of sesame seeds, and gently press them into the rice. Carefully flip the nori sheet over so the seaweed side is up.",
+    "Place 2 or 3 long cucumber spears, 2 or 3 slices of avocado, and about 1 tablespoon of imitation crab mixture in a line across the nori sheet, about 1/4 from the uncovered edge. Pick up the edge of the bamboo rolling sheet, fold the bottom edge of the sheet up, enclosing the filling, and tightly roll the sushi into a cylinder about 1 1/2 inch in diameter. Once the sushi is rolled, wrap it in the mat and gently squeeze to compact it tightly.",
+    "Cut each roll into 1 inch pieces with a very sharp knife dipped in water."
+  ],
+  "recipeName": "California Roll Sushi",
+  "recipeDescription": "California Roll - it's really good. Serve with soy sauce and wasabi.",
+  "recipeTime": "1 hour and 30 minutes",
+  "recipeComplexity": "Challenging",
+  "numberOfPlates": "8 Rolls",
+  "recipeImage": "https://images.unsplash.com/photo-1564489563601-c53cfc451e93?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+  "recipeNumber": "965138",
+  "user_id": {
+    "$oid": "5f8849237226cf22144be072"
+  },
+  "createdAt": {
+    "$date": "2020-11-15T16:00:17.805Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb1521241de2117e412e1f0"
+  },
+  "recipeIngredients": [
+    "1 cup red wine",
+    "1 teaspoon salt",
+    "1 sprig fresh rosemary",
+    "4 New York strip steaks, cut 1-inch thick"
+  ],
+  "recipeDirections": [
+    "Combine the red wine, salt and rosemary in a small bowl. Let stand at room temperature for 2 to 3 hours.",
+    "Heat a large griddle or cast-iron skillet over high heat. Place the steaks on the hot pan, and cook for about 8 minutes per side, or to desired degree of doneness. The internal temperature should be at least 145 degrees F (62 degrees C) for medium rare. Pour in the wine mixture, and allow it to boil for a minute. Serve steaks with sauce on a deep platter."
+  ],
+  "recipeName": "Rosemary Steak",
+  "recipeDescription": "This is a wonderful steak dish that was prepared for me when I lived in Argentina. This Argentinean steak dish is quite popular in various restaurants around Buenos Aires.",
+  "recipeTime": "3 hours",
+  "recipeComplexity": "Normal",
+  "numberOfPlates": "4 servings",
+  "recipeImage": "https://images.unsplash.com/photo-1587016164135-258b9d6ebdef?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+  "recipeNumber": "549266",
+  "user_id": {
+    "$oid": "5fae52dd0934fa0dd8df65ef"
+  },
+  "createdAt": {
+    "$date": "2020-11-15T16:06:42.086Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb152d541de2117e412e1f1"
+  },
+  "recipeIngredients": [
+    "¾ cup brown sugar",
+    "½ cup unsalted butter, at room temperature",
+    "½ cup white sugar",
+    "1 teaspoon salt",
+    "1 large egg",
+    "1 teaspoon vanilla extract",
+    "1 ½ cups all-purpose flour",
+    "¾ teaspoon baking soda",
+    "1 cup milk chocolate chips",
+    "1 (3 ounce) bar dark chocolate, cut into chunks",
+    "3 tablespoons white chocolate chips"
+  ],
+  "recipeDirections": [
+    "Combine brown sugar, butter, white sugar, and salt in a large bowl; beat with an electric mixer until a creamy, deep brown mixture forms. Add egg and vanilla; beat until mixture lightens and becomes smooth, 10 to 15 seconds.",
+    "Mix flour and baking soda together in a separate bowl. Add slowly to the wet ingredients until mostly incorporated, but some white traces of flour remain. Fold in milk chocolate, dark chocolate, and white chocolate using a spatula, not the mixer. Cover the dough and refrigerate for at least 30 minutes, or up to 48 hours.",
+    "Preheat the oven to 350 degrees F (175 degrees C) when ready to bake.",
+    "Divide cold dough into 2 1/4-ounce portions and place on a cookie sheet.",
+    "Bake in the preheated oven until the edges start to look golden brown and crispy, 10 to 12 minutes. Do not overbake; the centers will not look fully done. Cool until cookies are set, about 30 minutes."
+  ],
+  "recipeName": " Chocolate Chunk Cookies",
+  "recipeDescription": "Large or small, these triple chocolate cookies are crispy on the outside and chewy on the inside. Refrigerating the batter for 48 hours before baking is ideal, as this allows the dough to fully form its flavor.",
+  "recipeTime": "1 hour and a half",
+  "recipeComplexity": "challenging",
+  "numberOfPlates": "12 cookies",
+  "recipeImage": "https://images.unsplash.com/photo-1594023093216-f8477f23a728?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+  "recipeNumber": "304852",
+  "user_id": {
+    "$oid": "5fafb4856e81aa106cfeaf98"
+  },
+  "createdAt": {
+    "$date": "2020-11-15T16:09:57.383Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb154fe41de2117e412e1f3"
+  },
+  "recipeIngredients": [
+    "1 tablespoon olive oil, or as desired",
+    "6 chicken breasts, cut in half lengthwise (butterflied)",
+    "salt and ground black pepper to taste",
+    "¾ cup all-purpose flour",
+    "1 tablespoon paprika",
+    "2 eggs, beaten",
+    "2 cups seasoned bread crumbs",
+    "1 large lemon, zested"
+  ],
+  "recipeDirections": [
+    "Preheat oven to 425 degrees F (220 degrees C). Line a large baking sheet with aluminum foil and drizzle olive oil over foil. Place baking sheet in preheated oven.",
+    "Flatten chicken breasts so they are all about 1/4-inch thick. Season chicken with salt and pepper",
+    "Mix flour and paprika together on a large plate. Beat eggs with salt and pepper in a shallow bowl. Mix bread crumbs and lemon zest together on a separate large plate. Dredge each chicken piece in flour mixture, then egg, and then bread crumbs mixture and set aside in 1 layer on a clean plate. Repeat with remaining chicken.",
+    "Remove baking sheet from oven and arrange chicken in 1 layer on the sheet. Drizzle more olive oil over each piece of coated chicken.",
+    "Bake in the preheated oven for 5 to 6 minutes. Flip chicken and continue baking until no longer pink in the center and the breading is lightly browned, 5 to 6 minutes more. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C)."
+  ],
+  "recipeName": "Baked Chicken Schnitzel",
+  "recipeDescription": "Growing up, chicken schnitzel was a classic. I decided to make this dish oven-friendly using less oil, and an easier cleanup. This dish tastes great with potato salad, or mashed potatoes and a nice crisp salad. Tastes great the next day cold too! It's a family-favorite! Enjoy with fresh squeezed lemon juice.",
+  "recipeTime": "30 minutes",
+  "recipeComplexity": "Any one can do",
+  "numberOfPlates": "6 servings",
+  "recipeImage": "https://images.unsplash.com/photo-1585325701956-60dd9c8553bc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+  "recipeNumber": "856665",
+  "user_id": {
+    "$oid": "5fb1542741de2117e412e1f2"
+  },
+  "createdAt": {
+    "$date": "2020-11-15T16:19:10.097Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb1568f41de2117e412e1f4"
+  },
+  "recipeIngredients": [
+    "3 cups chicken broth",
+    "2 tablespoons olive oil",
+    "4 stalks celery, chopped",
+    "½ large onion, diced",
+    "4 green onions, white and green parts separated and sliced",
+    "3 cloves garlic, minced",
+    "1 teaspoon curry powder",
+    "½ teaspoon salt",
+    "1 ½ cups uncooked white rice",
+    "½ cup golden raisins"
+  ],
+  "recipeDirections": [
+    "Bring chicken broth to boil in a saucepan over medium-high heat; continue simmering while preparing remaining ingredients.",
+    "Heat olive oil in a large skillet over medium heat. Cook and stir celery, onion, green onion white portions, garlic, curry powder, and salt in the hot oil until vegetables are tender, about 5 minutes. Transfer vegetables to a bowl.",
+    "Cook and stir rice in the same skillet until lightly toasted, about 3 minutes.",
+    "Stir toasted rice into boiling chicken broth. Reduce heat to medium-low; continue simmering until rice is tender and broth is absorbed, about 15 minutes.",
+    "Remove rice from heat and stir in raisins, green onion tops, and celery mixture until well blended."
+  ],
+  "recipeName": "Rice Pilaf with Raisins and Veggies",
+  "recipeDescription": "Surprisingly easy and extremely flavorful. The curry powder does not add an actual curry taste, just a nice rich flavor, so give it a try even if you aren't a curry fan.",
+  "recipeTime": "40 minutes",
+  "recipeComplexity": "easy ",
+  "numberOfPlates": "6 servings",
+  "recipeImage": "https://images.unsplash.com/photo-1596560548464-f010549b84d7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+  "recipeNumber": "368305",
+  "user_id": {
+    "$oid": "5f882d07d932dc2568dc6e9e"
+  },
+  "createdAt": {
+    "$date": "2020-11-15T16:25:51.668Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb157e541de2117e412e1f5"
+  },
+  "recipeIngredients": [
+    "1 pound ground beef (or lamb, or a combination of the two)",
+    "Optional: 3 ounces ground beef or lamb fat",
+    "1 medium onion (chopped very fine or grated)",
+    "2 teaspoons paprika",
+    "1 teaspoon cumin",
+    "1 teaspoon salt",
+    "1/4 teaspoon pepper",
+    "1/8 teaspoon cayenne pepper",
+    "1/4 cup fresh parsley (chopped)",
+    "1/4 cup fresh cilantro (chopped)",
+    "Optional: 1 teaspoon ground cinnamon",
+    "Optional: 1 tablespoon fresh mint leaves (chopped)",
+    "Metal or bamboo skewers (soaked)"
+  ],
+  "recipeDirections": [
+    "Mix all of the ingredients together in a large mixing bowl and cover. Chill in the refrigerator for 1 hour or longer to allow the flavors to blend",
+    "Preheat the grill or grill pan and prepare it for your kebabs.",
+    "To make kebabs, take small amounts of kefta and shape them into cylinders or sausage shapes. Skewer the meat, squeezing it to mold it to the skewer.",
+    "Cook over hot coals, approximately 5 minutes each side. If you don't have a charcoal grill, the kebabs can be cooked on a gas grill or grill pan. It may take less or more time, depending on how hot the grill is and how thick you shaped the kefta. Watch the kebabs carefully so you don't dry out the meat.",
+    "Serve immediately, or wrap in aluminum foil to keep hot while you cook additional kebabs."
+  ],
+  "recipeName": "Moroccan Kefta Kebab",
+  "recipeDescription": "Here, 'tandoori' refers to the yogurt-based, aromatically spiced marinade that can be used on grilled, broiled, or baked meat. You can adjust the spices to your own personal preferences. Serve with flatbread or rice and cilantro chutney.",
+  "recipeTime": "4 hours and 40 minutes",
+  "recipeComplexity": "easy",
+  "numberOfPlates": "4 servings",
+  "recipeImage": "https://images.unsplash.com/photo-1532636875304-0c89119d9b4d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+  "recipeNumber": "832201",
+  "user_id": {
+    "$oid": "5fb14bd441de2117e412e1ed"
+  },
+  "createdAt": {
+    "$date": "2020-11-15T16:31:33.460Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb158ae41de2117e412e1f6"
+  },
+  "recipeIngredients": [
+    "1 head napa cabbage",
+    "1 bunch minced green onions",
+    "⅓ cup butter",
+    "1 (3 ounce) package ramen noodles, broken",
+    "2 tablespoons sesame seeds",
+    "1 cup slivered almonds",
+    "¼ cup cider vinegar",
+    "¾ cup vegetable oil",
+    "½ cup white sugar",
+    "2 tablespoons soy sauce"
+  ],
+  "recipeDirections": [
+    "Finely shred the head of cabbage; do not chop. Combine the green onions and cabbage in a large bowl, cover and refrigerate until ready to serve.",
+    "Preheat oven to 350 degrees F (175 degrees C).",
+    "Make the crunchies: Melt the butter in a pot. Mix the ramen noodles, sesame seeds and almonds into the pot with the melted butter. Spoon the mixture onto a baking sheet and bake the crunchies in the preheated 350 degrees F (175 degrees C) oven, turning often to make sure they do not burn. When they are browned remove them from the oven.",
+    "Make the dressing: In a small saucepan, heat vinegar, oil, sugar, and soy sauce. Bring the mixture to a boil, let boil for 1 minute. Remove the pan from heat and let cool.",
+    "Combine dressing, crunchies, and cabbage immediately before serving. Serve right away or the crunchies will get soggy."
+  ],
+  "recipeName": "Napa Cabbage Salad",
+  "recipeDescription": "This is a yummy, crunchy cabbage salad with toasted ramen noodles and almond slivers. The bowl is always licked clean at potlucks!",
+  "recipeTime": "30 minutes",
+  "recipeComplexity": "easy",
+  "numberOfPlates": "6 servings",
+  "recipeImage": "https://images.unsplash.com/photo-1505576633757-0ac1084af824?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+  "recipeNumber": "355976",
+  "user_id": {
+    "$oid": "5f8849237226cf22144be072"
+  },
+  "createdAt": {
+    "$date": "2020-11-15T16:34:54.063Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb1595441de2117e412e1f7"
+  },
+  "recipeIngredients": [
+    "1 cup olive oil",
+    "¼ cup chopped fresh parsley",
+    "1 lemon, juiced",
+    "2 tablespoons hot pepper sauce",
+    "3 cloves garlic, minced",
+    "1 tablespoon tomato paste",
+    "2 teaspoons dried oregano",
+    "1 teaspoon salt",
+    "1 teaspoon ground black pepper",
+    "2 pounds large shrimp, peeled and deveined with tails attached",
+    "skewers"
+  ],
+  "recipeDirections": [
+    "In a mixing bowl, mix together olive oil, parsley, lemon juice, hot sauce, garlic, tomato paste, oregano, salt, and black pepper. Reserve a small amount for basting later. Pour remaining marinade into a large resealable plastic bag with shrimp. Seal, and marinate in the refrigerator for 2 hours.",
+    "Preheat grill for medium-low heat. Thread shrimp onto skewers, piercing once near the tail and once near the head. Discard marinade.",
+    "Lightly oil grill grate. Cook shrimp for 5 minutes per side, or until opaque, basting frequently with reserved marinade."
+  ],
+  "recipeName": "Grilled Marinated Shrimp",
+  "recipeDescription": "This makes the best shrimp! Remove from skewers and serve on a bed of pasta with sauce for a great meal.",
+  "recipeTime": "3 hours",
+  "recipeComplexity": "normal",
+  "numberOfPlates": "6 servings",
+  "recipeImage": "https://images.unsplash.com/photo-1605209918106-39492bee031d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+  "recipeNumber": "534603",
+  "user_id": {
+    "$oid": "5fae52dd0934fa0dd8df65ef"
+  },
+  "createdAt": {
+    "$date": "2020-11-15T16:37:40.592Z"
+  },
+  "__v": 0
+}]
