@@ -1,0 +1,60 @@
+
+main{
+    background-color: #d2f5e3}
+.textfont{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+}
+.orangeButton {
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    color: #FFFFFF;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    font-weight: 100;
+    padding: 20px;
+    background-color: #FFA500;
+ 
+    border: solid black 1px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+ }
+ .orangeButton:hover {
+    color: #FFFFFF;
+    background: #f8b02a;
+    border: solid #000000 1px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    text-decoration: none;
+ }
+
+ .yellowButton {
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    color: #FFFFFF;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    font-weight: 100;
+    padding: 20px;
+    background-color: #f3b800;
+ 
+    border: solid black 1px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+ }
+ .yellowButton:hover {
+    color: #FFFFFF;
+    background: #af7c1c;
+    border: solid #000000 1px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    text-decoration: none;
+ }

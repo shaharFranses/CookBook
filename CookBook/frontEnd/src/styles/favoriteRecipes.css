@@ -1,0 +1,14 @@
+
+.favCard{
+background-color:#FFA500 !important ;
+max-width: 300px !important;
+min-width: 300px!important;
+height:495px !important;
+}
+.cardImage{
+    width: 250px;
+    height: 310px;
+    border-radius: 1%;
+    border: 1px black solid;
+
+}

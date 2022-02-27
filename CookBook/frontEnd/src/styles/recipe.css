@@ -1,0 +1,30 @@
+.line{
+   color:#3f2601;
+   font-weight: 900;
+   font-size: 25px;
+  
+}
+.subline{
+   color: black;
+   font-weight: 100;
+   font-size: 20px;
+}
+.userimg{
+
+      width: 50px;
+       height: 50px;
+       border-radius:50%;
+       border: 5px solid #FFA500;
+   }
+   .dishimg{
+       width: 250px;
+       height: 250px;
+       border-radius:50%;
+       border: 5px solid #FFA500;
+      }
+   
+   .recipeDiv{
+       border-radius:1%;
+       
+       border: 5px solid #FFA500;;
+   }
